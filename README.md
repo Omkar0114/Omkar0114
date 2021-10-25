@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+# I'm [Omkar!](https://twitter.com/Omkarstwts) 
 
 - 🔭 I’m currently exploring some aspects of Computer Science.
 - 🌱 I’m currently learning Open source contributions and DSA in JAVA.
