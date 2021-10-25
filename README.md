@@ -24,8 +24,4 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
--![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omkar0114&theme=dark&show_icons=true)
-
--[![Omkar's github activity graph](https://activity-graph.herokuapp.com/graph?username=Omkar0114&theme=react-dark)](https://github.com/Omkar0114)
-
-
+- ![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omkar0114&show_icons=true&theme=radical)
