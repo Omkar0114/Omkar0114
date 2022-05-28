@@ -1,8 +1,16 @@
 ## Hi there  👋
    ![2068](https://user-images.githubusercontent.com/88308267/138692225-da15905f-46ee-4240-bb0c-6a5ab172d804.jpg)
 # I'm [Omkar!](https://twitter.com/Omkarstwts) 
-![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omkar0114&show_icons=true&theme=radical)|
-|---|---|
+
+<div align="center">
+
+[![Twitter: Omkarstwts](https://img.shields.io/twitter/follow/Omkarstwts?style=social)](https://twitter.com/Omkarstwts)
+[![GitHub Omkar0114](https://img.shields.io/github/followers/Omkar0114?label=follow&style=social)](https://github.com/Omkar0114)
+   </div>
+
+ 
+![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omkar0114&show_icons=true&theme=radical)
+
 
 
 
