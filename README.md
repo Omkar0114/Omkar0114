@@ -1,40 +1,76 @@
-## Hi there  👋
-   ![2068](https://user-images.githubusercontent.com/88308267/138692225-da15905f-46ee-4240-bb0c-6a5ab172d804.jpg)
-# I'm [Omkar!](https://twitter.com/Omkarstwts) 
+<div>
+<img align="center" src="https://i.imgur.com/4ASafy0.png">
+</div>
 
-<div align="center">
+<h3 align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Welcome to Omkar Kulkarni's profile
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-[![Twitter: Omkarstwts](https://img.shields.io/twitter/follow/Omkarstwts?style=social)](https://twitter.com/Omkarstwts)
-[![GitHub Omkar0114](https://img.shields.io/github/followers/Omkar0114?label=follow&style=social)](https://github.com/Omkar0114)
-   </div>
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Open-Source+Enthusiast;Learning+DevOps;Nice+To+Meet+You+...&center=true"></a>
 
- 
-![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omkar0114&show_icons=true&theme=radical)
+</p>
 
-
-
-### [Read My Blogs here!](https://blog.kubeworld.org/getting-started-with-yaml)
-- 🔭 I’m currently exploring Open source programs and contributions.
-- 🌱 I’m currently learning Open source contributions and DSA in JAVA.
-- 👯 I’m looking to collaborate with such a great communities around the globe .
-- 🤔 I’m looking for help with open source contributions.
-- 💬 Ask me about anything you want.
-- 📫 How to reach me: Twitter:(https://twitter.com/omkarku07951556)
-- Instagram :(https://www.instagram.com/omkar0114/)
-- 😄 Pronouns: Omkar
-- Languages I know :-
-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-
-- IDEs:-
-- ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<!-- Badges template - https://github.com/badges/shields -->
 
 
-- Version Control:-
-- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+## <👨‍💻 About Me>
+
+My name is **Omkar Kulkarni** and I am a junior pursuing my Bachelor's in Artificial Intelligence & Data Science from India 🎓 &nbsp;&nbsp;I am a **DevOps & Cloud Enthusiast** & also passionate about **Open Source**💻. I am a Linux Foundation Scholar 2022 (LiFT 2022) among the top 50 people around the world in **Open-Source Newbie category**. I believe Learning in public and I like to meet awesome people around the globe.
+
+<h1 align = "center">
+  
+  <a href="https://twitter.com/Omkarstwts" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a> <a href="https://www.linkedin.com/in/omkar-kulkarni-a3b213207/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a herf="https://omkark.hashnode.dev/" target="_blank"><img alt="Hashnode" title="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
+</a>
+
+</h1>
+   
+   
+## <🔩 ToolBox>  
+<h1 align = "center">
+
+![Java](https://img.shields.io/badge/-java-red?style=for-the-badge&logo=java&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python&logoColor=4B8BBE)
+![HTML5](https://img.shields.io/badge/-html5-d9534f?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Docker](https://img.shields.io/badge/-docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-kubernetes-3970e4?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/-git-F1502F?style=for-the-badge&logo=git&logoColor=white)
+![Markdown](https://img.shields.io/badge/-markdown-747578?style=for-the-badge&logo=markdown&logoColor=white)
+</h1>
+
+## <📈 GitHub Stats >  
+
+<!-- Contributor Graph-1 : https://activity-graph.herokuapp.com/graph?username=verma-kunal&theme=xcode  -->
+![](https://activity-graph.herokuapp.com/graph?username=Omkar0114&theme=react-dark&hide_border=true)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=verma-kunal&show_icons=true&theme=tokyonight)  -->
+<p align="center">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Omkar0114&show_icons=true&theme=algolia&hide_border=true" />
+<!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=verma-kunal&theme=algolia&hide_border=true" /> -->
+</p>
+
+<!-- 
+## <🙋‍♂️ Connect with me>
+<p>
+  
+  <a href="https://twitter.com/kverma_twt" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a> <a href="https://www.linkedin.com/in/verma-kunal/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a> <a href="https://dev.to/kverma_dev" target="_blank"><img alt="Dev.to" title="DenverCoder1 Dev.to" src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white">
+</a>
+
+</p>  -->
 
 
-- ![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omkar0114&show_icons=true&theme=radical)
+
+
+
+
+
+
+
