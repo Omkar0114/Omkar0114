@@ -25,8 +25,8 @@ My name is **Omkar Kulkarni** and I am a junior pursuing my Bachelor's in Artifi
   
   <a href="https://twitter.com/Omkarstwts" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a> <a href="https://www.linkedin.com/in/omkar-kulkarni-a3b213207/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-<a herf="https://omkark.hashnode.dev/" target="_blank"><img alt="Hashnode" title="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
 </a>
+<a href="https://hashnode.com/@omkar0114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@omkar0114" height="30" width="40" logocolor="white" /></a>
 
 </h1>
    
@@ -48,28 +48,12 @@ My name is **Omkar Kulkarni** and I am a junior pursuing my Bachelor's in Artifi
 
 <!-- Contributor Graph-1 : https://activity-graph.herokuapp.com/graph?username=verma-kunal&theme=xcode  -->
 ![](https://activity-graph.herokuapp.com/graph?username=Omkar0114&theme=react-dark&hide_border=true)
-<!-- ![](https://github-readme-stats.vercel.app/api?username=verma-kunal&show_icons=true&theme=tokyonight)  -->
+<!-- ![](https://github-readme-stats.vercel.app/api?username=Omkar0114&show_icons=true&theme=tokyonight)  -->
 <p align="center">
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Omkar0114&show_icons=true&theme=algolia&hide_border=true" />
-<!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=verma-kunal&theme=algolia&hide_border=true" /> -->
+<!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Omkar0114&theme=algolia&hide_border=true" /> -->
 </p>
-
-<!-- 
-## <🙋‍♂️ Connect with me>
-<p>
-  
-  <a href="https://twitter.com/kverma_twt" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a> <a href="https://www.linkedin.com/in/verma-kunal/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a> <a href="https://dev.to/kverma_dev" target="_blank"><img alt="Dev.to" title="DenverCoder1 Dev.to" src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white">
-</a>
-
-</p>  -->
-
-
-
-
-
 
 
 
