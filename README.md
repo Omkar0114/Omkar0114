@@ -35,7 +35,7 @@ My name is **Omkar Kulkarni** and I am a junior pursuing my Bachelor's in Artifi
 <h1 align = "center">
 
 ![Java](https://img.shields.io/badge/-java-red?style=for-the-badge&logo=java&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python&logoColor=4B8BBE)
+![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-html5-d9534f?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Docker](https://img.shields.io/badge/-docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
