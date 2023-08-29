@@ -21,6 +21,18 @@
 
 My name is **Omkar Kulkarni** and I am a junior pursuing my Bachelor's in Artificial Intelligence & Data Science from India 🎓 &nbsp;&nbsp;I am a **DevOps & Cloud Enthusiast** & also passionate about **Open Source**💻. I am a Linux Foundation Scholar 2022 (LiFT 2022) among the top 50 people around the world in **Open-Source Newbie category**. I believe Learning in public and I like to meet awesome people around the globe.
 
+
+	
+### As a Student, I passed the CKA - Certified Kubernetes Administrator exam with very good marks.
+
+<h1 align = "center"> 
+ 
+![cka-certified-kubernetes-administrator](https://github.com/Omkar0114/Omkar0114/assets/88308267/fb040c97-84a6-4cc9-8edc-f077d33c7ca7)
+</h1>
+
+
+### Connect with me:
+
 <h1 align = "center">
   
   <a href="https://twitter.com/Omkarstwts" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
